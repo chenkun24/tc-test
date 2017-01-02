@@ -1,2 +1,3 @@
 npm install &&
-gulp default
+gulp default &&
+rsync --delete -a ./build/* /var/tcfinal/build
