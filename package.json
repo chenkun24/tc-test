@@ -1,0 +1,10 @@
+{
+  "name": "tc-test",
+  "version": "0.1.0",
+  "main": "index.html",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1"
+  }
+}
